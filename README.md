@@ -14,7 +14,7 @@ View submitted ticket status
 
 Technician:
 Review submitted tickets
-View AI-generated summaries, categories, and priorities
+View AI-generated summaries, categories, and priorities.
 Add technician notes
 Update ticket status
 
