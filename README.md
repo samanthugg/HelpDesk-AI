@@ -39,7 +39,7 @@ This app focuses on reducing cognitive load. Employees do not need to understand
 
 -How to Run Locally-
 Install Streamlit: pip install streamlit
-Run the application: streamlit run app.py
+Run the application: python -m streamlit run app.py
 
 -Project Purpose-
 This project was created as a practical evaluation for an entry-level AI Software Engineer opportunity. The focus is on product judgment, role-based user experience, and using AI to make a workflow simpler and more intuitive.
