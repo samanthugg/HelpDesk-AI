@@ -1,4 +1,4 @@
-try:
+
     import streamlit as st # type: ignore
 except Exception:
     print("Streamlit is not installed or could not be imported. Install it with: pip install streamlit")
