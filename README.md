@@ -1,6 +1,6 @@
 # HelpDesk-AI
 AI Help Desk Assistant built in Python using Streamlit.
-
+Demo video: https://1drv.ms/f/c/73546c4a586072f6/IgCePDuTqkzOTovIkpV6lhgYAS6FalzbFU3Fw4NaOvt64qg?e=THld8P
 A small Streamlit web application built for the Clarity AI practical evaluation. The app demonstrates how AI-assisted workflows can simplify help desk ticket creation and resolution for different user roles.
 
 -Overview-
